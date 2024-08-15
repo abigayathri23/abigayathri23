@@ -1,7 +1,6 @@
-## Hi there 👋
+## Hi there  I'm AbiGayathri 👋
 
-<h1>I'm AbiGayathri </h1>
-<br>
+
 
 # 💫 About Me:
 👯 I’m looking to collaborate on Fantastic Web Development Projects.<br>🌱 I’m currently learning MERN and MEAN Development.<br>
