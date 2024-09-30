@@ -1,4 +1,4 @@
-## Hi there  I'm AbiGayathri 👋
+## Hi there  I'm Abi Gayathri 👋
 
 👯 I’m looking to collaborate on Fantastic Web Development Projects.<br>🌱 I’m currently learning MERN and MEAN Development.<br>
 
