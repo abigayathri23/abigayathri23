@@ -13,8 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abigayathri23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abigayathri23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🔥Github Streak:
-[![GitHub Streak](https://streak-stats.demolab.com?user=abigayathri23&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 ## 🏆 GitHub Trophies
