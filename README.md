@@ -19,6 +19,21 @@ I focus on learning new things and being part of teams where I can contribute to
 
 ![Abi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abigayathri23&show_icons=true&count_private=true&include_all_commits=true&theme=radical)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abigayathri23&layout=compact&hide=html,css&theme=radical)
 
+## 🚀 Popular Projects
+
+1. [Predictive Maintenance](https://github.com/abigayathri23/Predictive-Maintanace)  
+Description: A web-based system for monitoring equipment health and predicting maintenance needs.  
+Tech Stack:Python, Flask, HTML, CSS, JavaScript,
+
+2. [QBox Coding Quiz App](https://github.com/abigayathri23/QBox)  
+Description: A web quiz platform for college students to practice coding questions and improve problem-solving skills.  
+Tech Stack: HTML, CSS, JavaScript, PHP, MySQL  
+
+ 3. [Ninja Editor IDE](https://github.com/Srihari-Prasath/Ninja-Editor-IDE)  
+Description: A lightweight online IDE to write, compile, and test code quickly.  
+Tech Stack: HTML, CSS, JavaScript, Node.js  
+
+
 
 
 ![Abi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abigayathri23&theme=tokyo-night)
