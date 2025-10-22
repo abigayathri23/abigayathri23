@@ -47,6 +47,6 @@ Tech Stack: HTML, CSS, JavaScript, Node.js
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=dark)](https://git.io/streak-stats)
 
 
-![GitHub Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/output/github-contribution-grid-snake.svg)
+![GitHub Snake Dark](https://raw.githubusercontent.com/abigayathri23/abigayathri23/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
