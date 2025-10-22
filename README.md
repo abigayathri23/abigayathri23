@@ -15,6 +15,9 @@ I focus on learning new things and being part of teams where I can contribute to
 ![Followers](https://img.shields.io/github/followers/abigayathri23?color=ff69b4&label=Followers&style=flat-square)  
 ![GitHub Stars](https://img.shields.io/github/stars/abigayathri23?color=ff69b4&label=Stars&style=flat-square)
 
+![Profile Views](https://komarev.com/ghpvc/?username=abigayathri23&color=ff69b4&style=flat-square) ![Followers](https://img.shields.io/github/followers/abigayathri23?color=ff69b4&label=Followers&style=flat-square) ![GitHub Stars](https://img.shields.io/github/stars/abigayathri23?color=ff69b4&label=Stars&style=flat-square)
+
+
 
 
 ![Abi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abigayathri23&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
