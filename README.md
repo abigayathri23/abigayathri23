@@ -49,4 +49,10 @@ Tech Stack: HTML, CSS, JavaScript, Node.js
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/abigayathri23/abigayathri23/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
+[![Gmail](https://img.shields.io/badge/Gmail-FF4081?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abigayathri23@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Resume](https://img.shields.io/badge/Resume-FF69B4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://your-resume-link.com)
+
+
+
 
