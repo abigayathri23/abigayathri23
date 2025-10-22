@@ -14,7 +14,7 @@ I focus on learning new things and being part of teams where I can contribute to
   <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,python,java,git,github,vscode" />
 </p>
 
-## 🧩 My Coding Analytics 
+## 🧩 Coding Analytics 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=abigayathri23&color=ff69b4&style=for-the-badge)](https://github.com/abigayathri23)[![Followers](https://img.shields.io/github/followers/abigayathri23?color=ff69b4&label=Followers&style=for-the-badge)](https://github.com/abigayathri23?tab=followers)[![GitHub Stars](https://img.shields.io/github/stars/abigayathri23?color=ff69b4&label=Stars&style=for-the-badge)](https://github.com/abigayathri23?tab=stars)
 
