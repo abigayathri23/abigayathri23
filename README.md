@@ -50,7 +50,7 @@ Tech Stack: HTML, CSS, JavaScript, Node.js
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/abigayathri23/abigayathri23/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-<img align="center" src="https://i.pinimg.com/originals/fe/da/91/feda91a5a2927aa480de3c364f6d6d2b.gif" width="400"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=footer)
 
 
 
