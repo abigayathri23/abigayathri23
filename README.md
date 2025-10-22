@@ -18,8 +18,6 @@ I focus on learning new things and being part of teams where I can contribute to
 
 [![Profile Views](https://komarev.com/ghpvc/?username=abigayathri23&color=ff69b4&style=for-the-badge)](https://github.com/abigayathri23)[![Followers](https://img.shields.io/github/followers/abigayathri23?color=ff69b4&label=Followers&style=for-the-badge)](https://github.com/abigayathri23?tab=followers)[![GitHub Stars](https://img.shields.io/github/stars/abigayathri23?color=ff69b4&label=Stars&style=for-the-badge)](https://github.com/abigayathri23?tab=stars)
 
-
-
 ## 💪GitHub Stats And Top Languages 
 
 ![Abi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abigayathri23&show_icons=true&count_private=true&include_all_commits=true&theme=radical)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abigayathri23&layout=compact&hide=html,css&theme=radical)
