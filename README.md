@@ -10,6 +10,9 @@ I focus on learning new things and being part of teams where I can contribute to
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,python,java,git,github,vscode" />
 </p>
+![Profile Views](https://komarev.com/ghpvc/?username=abigayathri23&color=blue&style=flat-square)
+![Followers](https://img.shields.io/github/followers/abigayathri23?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/abigayathri23?label=Stars&style=social)
 
 
 ![Abi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abigayathri23&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
@@ -24,9 +27,6 @@ I focus on learning new things and being part of teams where I can contribute to
 <!-- Streak stats (from github-readme-streak-stats) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=dark)](https://git.io/streak-stats)
 
-![Profile Views](https://komarev.com/ghpvc/?username=abigayathri23&label=Profile%20Views&color=blueviolet&style=flat)
-![Followers](https://img.shields.io/github/followers/abigayathri23?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/abigayathri23?affiliations=OWNER&style=social)
 
 ![GitHub Snake](https://raw.githubusercontent.com/abigayathri23/abigayathri23/output/github-contribution-grid-snake.svg)
 
