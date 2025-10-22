@@ -14,6 +14,7 @@ I focus on learning new things and being part of teams where I can contribute to
 
 ![Abi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abigayathri23&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
+![Abigayathri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abigayathri23&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abigayathri23&layout=compact&theme=radical)
 
 
@@ -31,5 +32,4 @@ I focus on learning new things and being part of teams where I can contribute to
 
 ![GitHub Snake](https://raw.githubusercontent.com/abigayathri23/abigayathri23/output/github-contribution-grid-snake.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abigayathri23&theme=radical&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
