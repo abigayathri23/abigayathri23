@@ -38,11 +38,12 @@ Tech Stack: HTML, CSS, JavaScript, Node.js
 
 ![Abi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abigayathri23&bg_color=0d1117&color=ffb6c1&line=ff69b4&point=ff85a2&area=true&hide_border=true)
 
-
 <!-- Trophy (from github-profile-trophy) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=abigayathri23&theme=juicyfresh&no-bg=true&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abigayathri23&theme=flat&title=Stars,Followers,Commits,PullRequest,Issues,Repositories,MultiLanguage&margin-w=10&margin-h=10&no-frame=true&no-bg=true&column=6&title_color=ff85a2&text_color=ff69b4)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- Streak stats (from github-readme-streak-stats) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abigayathri23&theme=tokyonight-pink&hide_border=true&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FFB6C1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abigayathri23&background=0D1117&hide_border=true&ring=ff85a2&fire=ff69b4&currStreakLabel=ff1493&sideNums=ffb6c1&sideLabels=ff69b4&dates=ff85a2&stroke=ffb6c1)](https://git.io/streak-stats)
+
 
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/abigayathri23/abigayathri23/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
