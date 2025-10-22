@@ -50,10 +50,7 @@ Tech Stack: HTML, CSS, JavaScript, Node.js
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/abigayathri23/abigayathri23/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-![Abi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abigayathri23&show_icons=true&theme=rose_pine)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abigayathri23&layout=compact&theme=rose_pine)
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=abigayathri23&theme=dracula&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
