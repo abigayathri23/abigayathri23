@@ -10,8 +10,14 @@ I focus on learning new things and being part of teams where I can contribute to
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,python,java,git,github,vscode" />
 </p>
+
+<!-- Profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=abigayathri23&color=blue&style=flat-square)
+
+<!-- Followers -->
 ![Followers](https://img.shields.io/github/followers/abigayathri23?label=Followers&style=social)
+
+<!-- GitHub Stars -->
 ![GitHub Stars](https://img.shields.io/github/stars/abigayathri23?label=Stars&style=social)
 
 
