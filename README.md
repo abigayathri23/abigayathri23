@@ -3,7 +3,7 @@ I’m a dedicated web developer with practical experience in building websites t
 I focus on learning new things and being part of teams where I can contribute to meaningful projects.
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=FF69B4&size=25&center=true&vCenter=true&width=500&lines=👩🏼‍💻+Frontend+Developer;🌙+Writing+stories+that+browsers+can+understand;🌸+Coding+calm+into+the+digital+storm💻;🚀+Always+learning,+always+growing+🪄+Making+UI's+sparkle+with+purpose+🌟;🚀Dreaming+in+code,+building+in+reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=FF69B4&size=25&center=true&vCenter=true&width=500&lines=👩🏼‍💻+Frontend+Developer&lines=🌙+Writing+stories+that+browsers+can+understand&lines=🌸+Coding+calm+into+the+digital+storm💻&lines=🚀+Always+learning,+always+growing+🪄+Making+UI's+sparkle+with+purpose+🌟&lines=🚀+Dreaming+in+code,+building+in+reality)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials
