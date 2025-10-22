@@ -11,9 +11,6 @@ I focus on learning new things and being part of teams where I can contribute to
   <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,python,java,git,github,vscode" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=abigayathri23&color=ff69b4&style=flat-square)  
-![Followers](https://img.shields.io/github/followers/abigayathri23?color=ff69b4&label=Followers&style=flat-square)  
-![GitHub Stars](https://img.shields.io/github/stars/abigayathri23?color=ff69b4&label=Stars&style=flat-square)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abigayathri23&color=ff69b4&style=flat-square) ![Followers](https://img.shields.io/github/followers/abigayathri23?color=ff69b4&label=Followers&style=flat-square) ![GitHub Stars](https://img.shields.io/github/stars/abigayathri23?color=ff69b4&label=Stars&style=flat-square)
 
