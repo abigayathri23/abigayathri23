@@ -2,7 +2,8 @@
 I’m a dedicated web developer with practical experience in building websites that are dynamic, responsive, and easy to use.
 I focus on learning new things and being part of teams where I can contribute to meaningful projects.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=FF69B4&size=25&center=true&vCenter=true&width=500&lines=+🌙+Writing+stories+that+developers+only+knows+🌸)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=FF69B4&size=25&center=true&vCenter=true&width=500&lines=%F0%9F%8C%99+Writing+stories+that+developers+only+knows%0A%F0%9F%8C%B8)](https://git.io/typing-svg)
+
 
 
 ## 🌐 Socials
