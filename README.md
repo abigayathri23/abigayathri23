@@ -7,3 +7,8 @@ I focus on learning new things and being part of teams where I can contribute to
 
 
 
+<!-- Trophy (from github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- Streak stats (from github-readme-streak-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=dark)](https://git.io/streak-stats)
