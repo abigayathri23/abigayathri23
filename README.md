@@ -8,7 +8,7 @@ I focus on learning new things and being part of teams where I can contribute to
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ab_biie._/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abi-gayathri-pavalathrowvathan-a555472a3/)[![Gmail](https://img.shields.io/badge/Gmail-FF4081?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abigayathri23@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)[![Resume](https://img.shields.io/badge/Resume-FF69B4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://your-resume-link.com)
 
 
-### 🛠️ Languages and Tools :
+## 🛠️ Languages and Tools :
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,python,java,git,github,vscode" />
 </p>
@@ -17,7 +17,7 @@ I focus on learning new things and being part of teams where I can contribute to
 ![Profile Views](https://komarev.com/ghpvc/?username=abigayathri23&color=ff69b4&style=flat-square) ![Followers](https://img.shields.io/github/followers/abigayathri23?color=ff69b4&label=Followers&style=flat-square) ![GitHub Stars](https://img.shields.io/github/stars/abigayathri23?color=ff69b4&label=Stars&style=flat-square)
 
 
-## GitHub Stats And Top Languages :
+## 💪GitHub Stats And Top Languages :
 
 ![Abi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abigayathri23&show_icons=true&count_private=true&include_all_commits=true&theme=radical)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abigayathri23&layout=compact&hide=html,css&theme=radical)
 
