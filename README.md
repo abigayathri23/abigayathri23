@@ -40,10 +40,9 @@ Tech Stack: HTML, CSS, JavaScript, Node.js
 
 
 <!-- Trophy (from github-profile-trophy) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=abigayathri23&theme=onedark&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=abigayathri23&theme=juicyfresh&no-bg=true&no-frame=true&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- Streak stats (from github-readme-streak-stats) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abigayathri23&theme=tokyonight-pink&hide_border=true&background=0D1117&ring=FF69B4&fire=FF1493&currStreakLabel=FFB6C1)](https://git.io/streak-stats)
 
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/abigayathri23/abigayathri23/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
