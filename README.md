@@ -19,6 +19,8 @@ I focus on learning new things and being part of teams where I can contribute to
 
 ![Abi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abigayathri23&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abigayathri23&layout=compact&hide=html,css&theme=radical)
+
 
 
 ![Abi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abigayathri23&theme=tokyo-night)
