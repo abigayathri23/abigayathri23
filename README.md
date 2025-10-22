@@ -38,7 +38,8 @@ Tech Stack: HTML, CSS, JavaScript, Node.js
 
 ![Abi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abigayathri23&bg_color=0d1117&color=ffb6c1&line=ff69b4&point=ff85a2&area=true&hide_border=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abigayathri23&theme=onedark&no-bg=true&no-frame=true&margin-w=10&margin-h=10&title=Followers,Stars,Commits,Repositories,PullRequest,Issues&column=6&color=ffb6c1,ff85a2,ff69b4,ff1493,e75480,c71585)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=abigayathri23&theme=flat&no-bg=true&no-frame=true&margin-w=10&margin-h=10&title=Followers,Stars,Commits,Repositories,PullRequest,Issues&column=6&color=ffc0cb,ffb6c1,ff85a2,ff69b4,ff1493,e75480)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abigayathri23&background=0D1117&hide_border=true&ring=ff85a2&fire=ff69b4&currStreakNum=ff1493&currStreakLabel=ff69b4&sideNums=ffb6c1&sideLabels=ff85a2&dates=ff85a2&stroke=ffb6c1)](https://git.io/streak-stats)
 
