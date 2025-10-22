@@ -43,6 +43,12 @@ Tech Stack: HTML, CSS, JavaScript, Node.js
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abigayathri23&background=0D1117&hide_border=true&ring=ff85a2&fire=ff69b4&currStreakNum=ff1493&currStreakLabel=ff69b4&sideNums=ffb6c1&sideLabels=ff85a2&dates=ff85a2&stroke=ffb6c1)](https://git.io/streak-stats)
 
+<h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color: #4CAF50;">GitHub Contributions</h2>
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+  <img src="https://github.com/abigayathri23/abigayathri23/blob/main/github-user-abi.svg" 
+       alt="GitHub Contribution Graph" 
+       style="max-width: 100%; height: auto; border-radius: 10px;">
+</div>
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/abigayathri23/abigayathri23/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
