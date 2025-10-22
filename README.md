@@ -8,6 +8,7 @@ I focus on learning new things and being part of teams where I can contribute to
 
 [![Gmail](https://img.shields.io/badge/Gmail-abigayathri23@gmail.com-DB4437?style=flat-square&logo=gmail&logoColor=white)](mailto:abigayathri23@gmail.com)
 
+[![Gmail](https://raw.githubusercontent.com/abigayathri23/gradient-badge/main/gmail-gradient.svg)](mailto:abigayathri23@gmail.com)
 
 
 ### 🛠️ Languages and Tools
