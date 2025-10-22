@@ -2,15 +2,18 @@
 I’m a dedicated web developer with practical experience in building websites that are dynamic, responsive, and easy to use.
 I focus on learning new things and being part of teams where I can contribute to meaningful projects.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ab_biie._/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abi-gayathri-pavalathrowvathan-a555472a3/)
 ### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,python,java,git,github,vscode" />
 </p>
 
-![Abi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abigayathri23&show_icons=true&theme=radical)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ab_biie._/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abi-gayathri-pavalathrowvathan-a555472a3/)
+
+![Abi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abigayathri23&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abigayathri23&layout=compact&theme=radical)
+
 
 ![Abi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abigayathri23&theme=tokyo-night)
 
@@ -24,4 +27,4 @@ I focus on learning new things and being part of teams where I can contribute to
 ![Followers](https://img.shields.io/github/followers/abigayathri23?label=Followers&style=social)
 ![Stars](https://img.shields.io/github/stars/abigayathri23?affiliations=OWNER&style=social)
 
-![GitHub Snake](https://github.com/abigayathri23/abigayathri23/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/abigayathri23/abigayathri23/output/github-contribution-grid-snake.svg)
