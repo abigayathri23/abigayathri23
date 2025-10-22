@@ -50,7 +50,7 @@ Tech Stack: HTML, CSS, JavaScript, Node.js
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/abigayathri23/abigayathri23/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abigayathri23&theme=dracula&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<img align="center" src="https://i.pinimg.com/originals/fe/da/91/feda91a5a2927aa480de3c364f6d6d2b.gif" width="400"/>
 
 
 
