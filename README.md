@@ -1,13 +1,12 @@
 # Hi, I'm Abi Gayathri 
 I’m a dedicated web developer with practical experience in building websites that are dynamic, responsive, and easy to use.
-I focus on learning new things and being part of teams where I can contribute to meaningful projects.
+I focus on learning new things and being part of teams where I can contribute to meaningful projects.[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=FF69B4&size=25&center=true&vCenter=true&width=500&lines=✨+Frontend+Developer;💻+Tech+Explorer;🌸+Loves+Coding+Beautiful+UIs;🚀+Always+Learning!)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ab_biie._/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abi-gayathri-pavalathrowvathan-a555472a3/)[![Gmail](https://img.shields.io/badge/Gmail-FF4081?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abigayathri23@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)[![Resume](https://img.shields.io/badge/Resume-FF69B4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://your-resume-link.com)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=FF69B4&size=25&center=true&vCenter=true&width=500&lines=✨+Frontend+Developer;💻+Tech+Explorer;🌸+Loves+Coding+Beautiful+UIs;🚀+Always+Learning!)](https://git.io/typing-svg)
 
 ### 🛠️ Languages and Tools
 <p align="left">
