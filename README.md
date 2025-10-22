@@ -6,7 +6,7 @@ I focus on learning new things and being part of teams where I can contribute to
 
 
 
-## 🌐 Socials
+## 📌 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ab_biie._/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abi-gayathri-pavalathrowvathan-a555472a3/)[![Gmail](https://img.shields.io/badge/Gmail-FF4081?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abigayathri23@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-FFF176?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)[![Resume](https://img.shields.io/badge/Resume-FF69B4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://your-resume-link.com)[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abigayathri23)[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abigayathri23)
 
 ## 🛠️ Languages and Tools 
@@ -18,11 +18,11 @@ I focus on learning new things and being part of teams where I can contribute to
 
 [![Profile Views](https://komarev.com/ghpvc/?username=abigayathri23&color=ff69b4&style=for-the-badge)](https://github.com/abigayathri23)[![Followers](https://img.shields.io/github/followers/abigayathri23?color=ff69b4&label=Followers&style=for-the-badge)](https://github.com/abigayathri23?tab=followers)[![GitHub Stars](https://img.shields.io/github/stars/abigayathri23?color=ff69b4&label=Stars&style=for-the-badge)](https://github.com/abigayathri23?tab=stars)
 
-## 💪GitHub Stats And Top Languages 
+## 💪 GitHub Stats And Top Languages 
 
 ![Abi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abigayathri23&show_icons=true&count_private=true&include_all_commits=true&theme=radical)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abigayathri23&layout=compact&hide=html,css&theme=radical)
 
-## 🚀 Popular Projects
+## 📜 Popular Projects
 
 1. [Predictive Maintenance](https://github.com/abigayathri23/Predictive-Maintanace)  
 Description: A web-based system for monitoring equipment health and predicting maintenance needs.  
@@ -45,6 +45,18 @@ Tech Stack: HTML, CSS, JavaScript, Node.js
 ## 🔥 GitHub Streaks 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abigayathri23&background=0D1117&hide_border=true&ring=ff85a2&fire=ff69b4&currStreakNum=ff1493&currStreakLabel=ff69b4&sideNums=ffb6c1&sideLabels=ff85a2&dates=ff85a2&stroke=ffb6c1)](https://git.io/streak-stats)
+
+## 🧩 Top Skills
+
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+
 
 <h2 style="font-size: 36px; font-weight: bold; margin: 30px 0; color:#ff0080;">GitHub Contributions</h2>
 <div style="display: flex; justify-content: center; margin: 20px 0;">
