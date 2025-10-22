@@ -36,7 +36,8 @@ Description: A lightweight online IDE to write, compile, and test code quickly.
 Tech Stack: HTML, CSS, JavaScript, Node.js  
 
 
-![Abi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abigayathri23&bg_color=ffffff&color=ff69b4&line=ff1493&point=ffb6c1&area=true&hide_border=true)
+![Abi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abigayathri23&bg_color=0d1117&color=ffb6c1&line=ff69b4&point=ff85a2&area=true&hide_border=true)
+
 
 <!-- Trophy (from github-profile-trophy) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=abigayathri23&theme=onedark&margin-w=10&margin-h=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
