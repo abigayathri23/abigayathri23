@@ -1,6 +1,9 @@
 # Hi, I'm Abi Gayathri 
 I’m a dedicated web developer with practical experience in building websites that are dynamic, responsive, and easy to use.
-I focus on learning new things and being part of teams where I can contribute to meaningful projects.[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=FF69B4&size=25&center=true&vCenter=true&width=500&lines=✨+Frontend+Developer;💻+Tech+Explorer;🌸+Loves+Coding+Beautiful+UIs;🚀+Always+Learning!)](https://git.io/typing-svg)
+I focus on learning new things and being part of teams where I can contribute to meaningful projects.
+
+##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=FF69B4&size=25&center=true&vCenter=true&width=500&lines=✨+Frontend+Developer;💻+Tech+Explorer;🌸+Loves+Coding+Beautiful+UIs;🚀+Always+Learning!)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials
