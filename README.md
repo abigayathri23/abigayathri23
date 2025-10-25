@@ -17,7 +17,7 @@ I focus on learning new things and being part of teams where I can contribute to
 
 ## 🧩 Coding Analytics 
 
-[![Profile Views](https://komarev.com/ghpvc/?username=abigayathri23&color=ff3377&style=for-the-badge)](https://github.com/abigayathri23)[![Followers](https://img.shields.io/github/followers/abigayathri23?color=ff3377&labelColor=000000&label=Followers&style=for-the-badge)](https://github.com/abigayathri23?tab=followers)[![GitHub Stars](https://img.shields.io/github/stars/abigayathri23?color=ff3377&labelColor=000000&label=Stars&style=for-the-badge)](https://github.com/abigayathri23?tab=stars)
+[![Profile Views](https://img.shields.io/badge/Profile%20Views-1234-ff3377?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abigayathri23)[![Followers](https://img.shields.io/github/followers/abigayathri23?color=ff3377&labelColor=000000&label=Followers&style=for-the-badge)](https://github.com/abigayathri23?tab=followers)[![GitHub Stars](https://img.shields.io/github/stars/abigayathri23?color=ff3377&labelColor=000000&label=Stars&style=for-the-badge)](https://github.com/abigayathri23?tab=stars)
 
 
 ## 💪 GitHub Stats And Top Languages 
