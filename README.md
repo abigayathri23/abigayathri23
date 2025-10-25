@@ -41,8 +41,8 @@ Tech Stack: HTML, CSS, JavaScript, Node.js
 ![Abi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abigayathri23&bg_color=0d1117&color=ffb6c1&line=ff69b4&point=ff85a2&area=true&hide_border=true)
 
 ## 🏆 GitHub Trophy
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=rose_pine&no-frame=true&no-bg=false&margin-w=5&title=Stars,Followers,Commits,Repositories,PullRequest,Issues)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=abigayathri23&theme=rose_pine&no-frame=true&no-bg=false&margin-w=5&title=Stars,Followers,Commits,Repositories,PullRequest,Issues)
+``
 
 ## 🔥 GitHub Streaks 
 
