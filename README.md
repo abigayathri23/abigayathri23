@@ -63,7 +63,5 @@ Tech Stack: HTML, CSS, JavaScript, Node.js
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=footer)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&width=100%25&section=footer)
-
 
 
