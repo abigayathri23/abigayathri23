@@ -15,7 +15,7 @@ I focus on learning new things and being part of teams where I can contribute to
   <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,python,java,git,github,vscode" />
 </p>
 
-## 🧩 Coding Analytics 
+## 🧩 GitHuB Analytics 
 
 [![Followers](https://img.shields.io/github/followers/abigayathri23?color=ff3377&labelColor=000000&label=Followers&style=for-the-badge)](https://github.com/abigayathri23?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/abigayathri23?color=ff3377&labelColor=000000&label=Stars&style=for-the-badge)](https://github.com/abigayathri23?tab=stars)
