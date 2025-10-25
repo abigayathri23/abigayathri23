@@ -7,7 +7,8 @@ I focus on learning new things and being part of teams where I can contribute to
 
 
 ## 📌 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ab_biie._/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abi-gayathri-pavalathrowvathan-a555472a3/)[![Gmail](https://img.shields.io/badge/Gmail-FF4081?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abigayathri23@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-FFF176?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)[![Resume](https://img.shields.io/badge/Resume-FF69B4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://your-resume-link.com)[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abigayathri23)[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/abigayathri23)
+[![Instagram](https://img.shields.io/badge/Instagram-%23ffb3d9.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ab_biie._/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23ff99cc.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abi-gayathri-pavalathrowvathan-a555472a3/)[![Gmail](https://img.shields.io/badge/Gmail-%23ff80bf.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:abigayathri23@gmail.com)[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff66b3.svg?&style=for-the-badge&logo=firefox&logoColor=white)](https://abigayathri23.vercel.app/)[![Resume](https://img.shields.io/badge/Resume-%23ff4da6.svg?&style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/your-resume-link)[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/abigayathri23)[![HackerRank](https://img.shields.io/badge/HackerRank-%23ff3399.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/abigayathri23)
+
 
 ## 🛠️ Languages and Tools 
 <p align="left">
@@ -40,7 +41,8 @@ Tech Stack: HTML, CSS, JavaScript, Node.js
 ![Abi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abigayathri23&bg_color=0d1117&color=ffb6c1&line=ff69b4&point=ff85a2&area=true&hide_border=true)
 
 ## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=abigayathri23&theme=flat&no-bg=true&no-frame=true&margin-w=10&margin-h=10&title=Followers,Stars,Commits,Repositories,PullRequest,Issues&column=6&theme=gruvbox_light)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=rose_pine&no-frame=true&no-bg=false&margin-w=5&title=Stars,Followers,Commits,Repositories,PullRequest,Issues)
+
 
 ## 🔥 GitHub Streaks 
 
